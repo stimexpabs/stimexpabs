@@ -1,12 +1,11 @@
 # Hi there, I'm Pabitra Majhi (stimexpabs) 👋
 
-I'm a passionate software developer with a love for hardware design. I specialize in C, Verilog, Java, C++, VHDL, and SystemVerilog. I have extensive experience working with FPGAs and the Xilinx Vivado suite. Additionally, I have a solid understanding of PCB design and electronic components.
+I'm a passionate software developer with a love for hardware design. I specialize in C, Java, C++, Verilog HDL. I have extensive experience working with FPGAs and the Xilinx Vivado suite. Additionally, I have an understanding of PCB design and electronic components.
 
 ## 🔭 What I'm Working On
 
 Currently, I'm working on several exciting projects, including:
 - Designing a custom FPGA-based system for real-time data processing
-- Developing a new software tool for automating PCB design
 - Building a portfolio of open-source projects to share with the community
 
 ## 🌱 What I'm Learning
