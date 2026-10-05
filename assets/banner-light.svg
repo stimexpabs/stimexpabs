@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Pabitra Majhi. Embedded systems, edge AI, FPGA and PCB design.">
+  <rect width="1200" height="260" rx="14" fill="#f6f8fa"/>
+  <g fill="none" stroke="#d1d9e0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 40 H860 L890 70 H1010"/>
+    <path d="M700 84 H800 L830 114 H930"/>
+    <path d="M820 150 H900 L930 180 H1010"/>
+    <path d="M740 206 H860 L880 186 H930"/>
+    <path d="M1090 70 H1130 L1160 40 H1200"/>
+    <path d="M1090 114 H1200"/>
+    <path d="M1090 150 H1140 L1170 180 H1200"/>
+    <path d="M1090 186 H1120 L1150 216 H1200"/>
+    <path d="M960 0 V34"/>
+    <path d="M1010 0 V34"/>
+    <path d="M1060 0 V34"/>
+    <path d="M985 226 V260"/>
+    <path d="M1035 226 V260"/>
+  </g>
+  <g fill="#f6f8fa" stroke="#8c959f" stroke-width="2">
+    <circle cx="760" cy="40" r="5"/><circle cx="700" cy="84" r="5"/>
+    <circle cx="820" cy="150" r="5"/><circle cx="740" cy="206" r="5"/>
+  </g>
+  <rect x="930" y="34" width="160" height="192" rx="8" fill="#f6f8fa" stroke="#8c959f" stroke-width="2"/>
+  <g fill="#8c959f">
+    <rect x="920" y="64" width="10" height="12" rx="2"/><rect x="920" y="108" width="10" height="12" rx="2"/>
+    <rect x="920" y="174" width="10" height="12" rx="2"/>
+    <rect x="1090" y="64" width="10" height="12" rx="2"/><rect x="1090" y="108" width="10" height="12" rx="2"/>
+    <rect x="1090" y="144" width="10" height="12" rx="2"/><rect x="1090" y="180" width="10" height="12" rx="2"/>
+  </g>
+  <circle cx="950" cy="54" r="4" fill="#1a7f37"/>
+  <g fill="none" stroke="#1a7f37" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M956 150 H972 L980 150 C990 150 990 104 1000 104 C1012 104 1014 136 1026 142 C1040 148 1050 150 1064 150"/>
+  </g>
+  <text x="1010" y="196" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#59636e">int8 · 2.3 ms</text>
+  <text x="64" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#1f2328">Pabitra Majhi</text>
+  <rect x="64" y="134" width="56" height="4" rx="2" fill="#1a7f37"/>
+  <text x="64" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#59636e">embedded systems · edge AI · FPGA · PCB design</text>
+  <text x="64" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#59636e" opacity="0.8">from sensor voltage to shipped firmware</text>
+</svg>
